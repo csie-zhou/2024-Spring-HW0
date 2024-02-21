@@ -3,7 +3,7 @@
 All the detailed specified in Homework 0 documentation.
 
 ## Wallet Address
-Please provide your MetaMask wallet address: 0x7cC50152BD951c8Da64CE62746834793cfa34A85
+Please provide your MetaMask wallet address: '0x7cC50152BD951c8Da64CE62746834793cfa34A85'
 
 ## Local Testing
 Please provide a screenshot of the `forge test -vvv` command running in your local environment.
